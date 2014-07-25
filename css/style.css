@@ -472,3 +472,13 @@ section.contact {
     padding-right: 60px;
 }
 
+section.team-success {
+    color: #fff;
+    /*background: #F05A28;*/
+    background: #F8F7CF;
+}
+
+
+.team-color {
+    color: #18bc9c;
+}
