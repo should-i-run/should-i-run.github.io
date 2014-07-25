@@ -453,3 +453,13 @@ section.contact {
     color: #fff;
     background: #90D4D4;
 }
+
+.photo1 {
+    width: 350px;
+}
+
+
+.app_svg {
+    margin-top: 40px;
+    height: 60px;
+}
