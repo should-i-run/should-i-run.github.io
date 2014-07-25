@@ -482,3 +482,8 @@ section.team-success {
 .team-color {
     color: #18bc9c;
 }
+
+
+.team-margin-bottom {
+    margin-bottom: 20px;
+}
