@@ -485,5 +485,10 @@ section.team-success {
 
 
 .team-margin-bottom {
-    margin-bottom: 20px;
+    margin-bottom: 16px;
+}
+
+.coming-soon {
+    color: #031D40;
+    font-weight: 200;
 }
