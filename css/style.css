@@ -466,3 +466,9 @@ section.contact {
     margin-top: 40px;
     height: 60px;
 }
+
+.about-padding {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
