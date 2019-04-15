@@ -1,4 +1,4 @@
-# Privacy Policy
+# BART Check Privacy Policy
 
 This policy applies to all information collected or submitted through BART Check’s website and our apps for iPhone and any other devices and platforms.
 
