@@ -12,7 +12,11 @@ To improve the app and ensure that you have a good experience, we collect usage 
 
 ### BART API
 
-We use the BART API to get the current departures for a station, and directions between stations. We only pass the minimum information necessary to the the BART API, which is the station codes. We do not send exact locations to the BART API.
+We use the BART API to get the current departures for a station, and directions between stations. We only pass the minimum information necessary to the BART API, which is the station codes. We do not send exact locations to the BART API.
+
+### Google Maps Directions API
+
+We use the Google Maps Directions API to get the estimated time to walk to each BART station. We only pass the minimum information necessary to the API, which is the lat/lng of your current location and the closest station entrance. We do not pass any personally identifiable information to the API, although Google may be collecting information about the request, such as your IP address. 
 
 ## Information usage
 
